@@ -1,4 +1,4 @@
-# Demo project for Semaphore UI
+# Demo project for UI
 
 It includes following examples:
 * Ansible
