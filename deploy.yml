@@ -1,6 +1,0 @@
-- hosts: site
-  roles:
-  - deploy
-
-
-  
